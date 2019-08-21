@@ -18,3 +18,8 @@ Application uses Builder pattern, Singleton Pattern and Mediator pattern.
 To get requests from url application uses Retrofit2 library. Retrofit2 is faster then other HTTP libraries and provides easy implementation and readable response using POJO classes(Url, ImageSource).
 
 Here we have loaded for unlimited number of images which are asynchronous with help of pagination. This can be scaled up to more then that. Since application is not aware how many images should be shown.
+
+
+CodeBeat : 
+
+https://codebeat.co/projects/github-com-saketp18-mvvm_retrofit-master
